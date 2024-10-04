@@ -3,8 +3,7 @@
 import click
 import subprocess
 
-file_head ='''
-#include <bits/stdc++.h>
+file_head ='''#include <bits/stdc++.h>
 using namespace std;
 
 '''
